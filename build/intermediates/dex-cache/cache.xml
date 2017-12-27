@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Keman\.gradle\caches\modules-2\files-2.1\com.microsoft.azure\azure-notifications-handler\1.0.1\c322af100020e6db539f2aa367698d4b88fc453f\azure-notifications-handler-1.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c322af100020e6db539f2aa367698d4b88fc453f">
+        <dex dex="C:\Users\Keman\Desktop\LabaPMU\app\build\intermediates\transforms\dex\debug\folders\1000\10\azure-notifications-handler-1.0.1_d32d2d8f3d90e1502e12c03b67e5c90705a83c1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Keman\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="C:\Users\Keman\Desktop\LabaPMU\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.3_44ce4c900d5125a3ac76e7f32754ba826706e8bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Keman\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Keman\Desktop\LabaPMU\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_92ac932d255bd880516194263582810ee4ef9245\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Keman\.android\build-cache\28fc7c975ad426ac97f385b2ace9517dabfebfb7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b5ed05574ca7f8eeba9980f82e7acdd610f1b44b">
+        <dex dex="C:\Users\Keman\Desktop\LabaPMU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e85e28fa3e9f62cd0a482b8e89ac58b5cd16fd21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Program Files\Android\Android Studio\gradle\m2repository\com\google\guava\guava\18.0\guava-18.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="C:\Users\Keman\Desktop\LabaPMU\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-18.0_dccfe7c3345692c6932cd7bd1a16c4924fdb2128\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Keman\.android\build-cache\2b801ebbcb9e2a267e008f131da23335101ec9ff\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Keman\Desktop\LabaPMU\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3d3c2dc406c4d3ad35f66b45d08887c145c512a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Keman\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="C:\Users\Keman\Desktop\LabaPMU\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.5.0_40987f2e6244b8d6cfd4a12e2728c5c70f05e5d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Keman\Desktop\LabaPMU\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0cbfba0562e6bfc647e863f500373c0ed0ef2c">
+        <dex dex="C:\Users\Keman\Desktop\LabaPMU\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_dcfbeff8e0e4ba479c8fb09756a701c2d2b4fa7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Keman\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Keman\Desktop\LabaPMU\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_0e8777f63784c2011a6fdf14a3adc6116b3aa54a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Keman\Desktop\LabaPMU\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Keman\Desktop\LabaPMU\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_7cba14b5146694b01fd1fb7000f9244a34d683d5\classes.dex" />
+    </item>
+
+</items>
